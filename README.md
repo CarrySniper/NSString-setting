@@ -32,4 +32,4 @@
  NSString *const NSShadowAttributeName;//值为NSShadow，设置比画的阴影，默认值为nil。
  NSString *const NSVerticalGlyphFormAttributeName;//值为整型NSNumber，0为水平排版的字，1为垂直排版的字。
 
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+![baidu](http://c5.yunpan.360.cn/my/index/#%2Fgithub%2Fgithub%E4%BB%8B%E7%BB%8D%E6%88%AA%E5%9B%BE%2F "效果图")  
