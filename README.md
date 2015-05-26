@@ -31,3 +31,5 @@
  NSString *const NSStrokeWidthAttributeName;//值为浮点数NSNumber。设置比画的粗细。
  NSString *const NSShadowAttributeName;//值为NSShadow，设置比画的阴影，默认值为nil。
  NSString *const NSVerticalGlyphFormAttributeName;//值为整型NSNumber，0为水平排版的字，1为垂直排版的字。
+
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
