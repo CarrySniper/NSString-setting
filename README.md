@@ -33,4 +33,4 @@
  NSString *const NSVerticalGlyphFormAttributeName;//值为整型NSNumber，0为水平排版的字，1为垂直排版的字。
 
 
-![](https://github.com/cjq002/NSString-setting/raw/master/NSString-setting.jpg)  
+![](https://github.com/cjq002/NSString-setting/raw/master/NSString-setting.jpg "效果图")  
