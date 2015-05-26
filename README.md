@@ -1,5 +1,5 @@
 # NSString-setting
-一个字符串设置多种字体颜色大小
+##一个字符串设置多种字体颜色大小
 
  alignment //对齐方式
  firstLineHeadIndent //首行缩进
@@ -33,4 +33,4 @@
  NSString *const NSVerticalGlyphFormAttributeName;//值为整型NSNumber，0为水平排版的字，1为垂直排版的字。
 
 
-![](https://github.com/cjq002/NSString-setting/raw/master/NSString-setting.jpg "效果图")  
+![](https://github.com/cjq002/NSString-setting/raw/master/NSString-setting.jpg)  
